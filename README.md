@@ -60,5 +60,7 @@ vue -> axios:
 ```text
 git init
 git add * / 指定文件
-
+git commt -m "提交信息"
+git remote add origin https://github.com/ReturnTears/allst-vue-sm.git
+git push -u origin master
 ```
